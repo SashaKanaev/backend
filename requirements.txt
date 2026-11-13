@@ -1,0 +1,2 @@
+fastapi[standard]==0.162.6
+pytest==9.2.0
